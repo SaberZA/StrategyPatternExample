@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("StrategyPattern.After")]
+[assembly: AssemblyTitle("StrategyPattern.After_Variation")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("StrategyPattern.After")]
+[assembly: AssemblyProduct("StrategyPattern.After_Variation")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8d6d5396-8d3f-497b-a8b3-ff790d974758")]
+[assembly: Guid("b9e3d8c2-496b-4f63-a130-cea17072e9ae")]
 
 // Version information for an assembly consists of the following four values:
 //

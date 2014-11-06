@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern.Before", "StrategyPattern.Before\StrategyPattern.Before.csproj", "{6C107277-8C5D-418C-962A-EF8E0C2109A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern.After", "StrategyPattern.Before\StrategyPattern.After.csproj", "{6C107277-8C5D-418C-962A-EF8E0C2109A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern.Before", "StrategyPattern.After\StrategyPattern.Before.csproj", "{2616E69E-6850-4CEC-8CEA-F21CDE8ECB46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern.After_Variation", "StrategyPattern.After_Variation\StrategyPattern.After_Variation.csproj", "{723349D8-501F-4B99-98D0-F88B43F65A5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,14 @@ Global
 		{6C107277-8C5D-418C-962A-EF8E0C2109A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C107277-8C5D-418C-962A-EF8E0C2109A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C107277-8C5D-418C-962A-EF8E0C2109A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2616E69E-6850-4CEC-8CEA-F21CDE8ECB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2616E69E-6850-4CEC-8CEA-F21CDE8ECB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2616E69E-6850-4CEC-8CEA-F21CDE8ECB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2616E69E-6850-4CEC-8CEA-F21CDE8ECB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723349D8-501F-4B99-98D0-F88B43F65A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723349D8-501F-4B99-98D0-F88B43F65A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723349D8-501F-4B99-98D0-F88B43F65A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723349D8-501F-4B99-98D0-F88B43F65A5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

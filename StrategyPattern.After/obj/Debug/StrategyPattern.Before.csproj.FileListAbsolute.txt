@@ -1,0 +1,6 @@
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\bin\Debug\StrategyPattern.After.dll
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\bin\Debug\StrategyPattern.After.pdb
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\bin\Debug\nunit.framework.dll
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\bin\Debug\nunit.framework.xml
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\obj\Debug\StrategyPattern.After.dll
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\obj\Debug\StrategyPattern.After.pdb

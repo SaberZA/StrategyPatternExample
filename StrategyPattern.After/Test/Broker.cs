@@ -1,14 +1,16 @@
-namespace StrategyPattern.After
+using StrategyPattern.Before.Domain;
+
+namespace StrategyPattern.Before.Test
 {
-    public class Mother
+    public class Broker
     {
         public static Order CreateOrder_Dhl()
         {
             return new Order
                 {
                     ShippingMethod = Order.ShippingOptions.Dhl,
-                    Destination = Mother.CreateAddress_Destination(),
-                    Origin = Mother.CreateAddress_Origin()
+                    Destination = Broker.CreateAddress_Destination(),
+                    Origin = Broker.CreateAddress_Origin()
                 };
         }
 
@@ -37,8 +39,8 @@ namespace StrategyPattern.After
             return new Order
             {
                 ShippingMethod = Order.ShippingOptions.FedEx,
-                Destination = Mother.CreateAddress_Destination(),
-                Origin = Mother.CreateAddress_Origin()
+                Destination = Broker.CreateAddress_Destination(),
+                Origin = Broker.CreateAddress_Origin()
             };
         }
 
@@ -47,8 +49,8 @@ namespace StrategyPattern.After
             return new Order
             {
                 ShippingMethod = Order.ShippingOptions.Ups,
-                Destination = Mother.CreateAddress_Destination(),
-                Origin = Mother.CreateAddress_Origin()
+                Destination = Broker.CreateAddress_Destination(),
+                Origin = Broker.CreateAddress_Origin()
             };
         }
     }

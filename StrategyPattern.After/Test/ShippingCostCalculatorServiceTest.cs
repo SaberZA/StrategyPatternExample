@@ -1,7 +1,6 @@
 ﻿using NUnit.Framework;
 using StrategyPattern.Before.Domain.ShippingService;
 
-
 namespace StrategyPattern.Before.Test
 {
     public class ShippingCostCalculatorServiceTest
@@ -11,7 +10,7 @@ namespace StrategyPattern.Before.Test
         {
             //---------------Set up test pack-------------------
             var shippingCalculatorService = new ShippingCostCalculatorService();
-            var order = Mother.CreateOrder_Dhl();
+            var order = Broker.CreateOrder_Dhl();
             //---------------Assert Precondition----------------
 
             //---------------Execute Test ----------------------
@@ -25,7 +24,7 @@ namespace StrategyPattern.Before.Test
         {
             //---------------Set up test pack-------------------
             var shippingCalculatorService = new ShippingCostCalculatorService();
-            var order = Mother.CreateOrder_FedEx();
+            var order = Broker.CreateOrder_FedEx();
             //---------------Assert Precondition----------------
 
             //---------------Execute Test ----------------------
@@ -39,7 +38,7 @@ namespace StrategyPattern.Before.Test
         {
             //---------------Set up test pack-------------------
             var shippingCalculatorService = new ShippingCostCalculatorService();
-            var order = Mother.CreateOrder_Ups();
+            var order = Broker.CreateOrder_Ups();
             //---------------Assert Precondition----------------
 
             //---------------Execute Test ----------------------

@@ -2,3 +2,8 @@ c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\Str
 c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After_Variation\obj\Debug\StrategyPattern.After_Variation.pdb
 c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After_Variation\bin\Debug\StrategyPattern.After_Variation.exe
 c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After_Variation\obj\Debug\StrategyPattern.After_Variation.exe
+D:\DevPractice\StrategyPatternExample\StrategyPattern.After_Variation\obj\Debug\StrategyPattern.After_Variation.exe
+D:\DevPractice\StrategyPatternExample\StrategyPattern.After_Variation\obj\Debug\StrategyPattern.After_Variation.pdb
+D:\DevPractice\StrategyPatternExample\StrategyPattern.After_Variation\bin\Debug\StrategyPattern.After_Variation.exe
+D:\DevPractice\StrategyPatternExample\StrategyPattern.After_Variation\bin\Debug\StrategyPattern.After_Variation.pdb
+D:\DevPractice\StrategyPatternExample\StrategyPattern.After_Variation\obj\Debug\StrategyPattern.After_Variation.csprojResolveAssemblyReference.cache

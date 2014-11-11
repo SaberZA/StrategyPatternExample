@@ -17,7 +17,7 @@ namespace StrategyPattern.After_Variation
             Func<Order, double> upsStrategy = delegate(Order order) { return 3.00d; };
             Func<Order, double> dhlStrategy = order => 4.00d;
 
-            Order theOrder = Mother.CreateOrder();
+            Order theOrder = Broker.CreateOrder();
 
             var calculatorService = new ShippingCostCalculatorService();
 

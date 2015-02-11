@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
-using StrategyPattern.After.Domain.ShippingService;
+using StrategyPattern.Before.Domain.ShippingService;
 
-namespace StrategyPattern.After.Test
+namespace StrategyPattern.Before.Test
 {
     public class ShippingCostCalculatorServiceTest
     {
@@ -9,8 +9,7 @@ namespace StrategyPattern.After.Test
         public void CalculateShippingCost_GivenDhlOrder_ShouldReturn4Cost()
         {
             //---------------Set up test pack-------------------
-            var strategy = new DhlShippingCostStrategy();
-            var shippingCalculatorService = new ShippingCostCalculatorService(strategy);
+            var shippingCalculatorService = new ShippingCostCalculatorService();
             var order = Broker.CreateOrder_Dhl();
             //---------------Assert Precondition----------------
 
@@ -24,8 +23,7 @@ namespace StrategyPattern.After.Test
         public void CalculateShippingCost_GivenFedExOrder_ShouldReturn5Cost()
         {
             //---------------Set up test pack-------------------
-            var strategy = new FedExShippingCostStrategy();
-            var shippingCalculatorService = new ShippingCostCalculatorService(strategy);
+            var shippingCalculatorService = new ShippingCostCalculatorService();
             var order = Broker.CreateOrder_FedEx();
             //---------------Assert Precondition----------------
 
@@ -39,8 +37,7 @@ namespace StrategyPattern.After.Test
         public void CalculateShippingCost_GivenUpsOrder_ShouldReturn3Cost()
         {
             //---------------Set up test pack-------------------
-            var strategy = new UpsShippingCostStrategy();
-            var shippingCalculatorService = new ShippingCostCalculatorService(strategy);
+            var shippingCalculatorService = new ShippingCostCalculatorService();
             var order = Broker.CreateOrder_Ups();
             //---------------Assert Precondition----------------
 

@@ -1,6 +1,4 @@
-using StrategyPattern.Before.Domain;
-
-namespace StrategyPattern.Before.Test
+namespace StrategyPattern.After
 {
     public class Broker
     {

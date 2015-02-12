@@ -1,4 +1,4 @@
-namespace StrategyPattern.Before.Domain
+namespace StrategyPattern.After
 {
     public class Address
     {

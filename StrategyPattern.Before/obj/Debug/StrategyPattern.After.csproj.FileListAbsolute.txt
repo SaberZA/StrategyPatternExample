@@ -1,13 +1,7 @@
-c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.Before\bin\Debug\StrategyPattern.Before.dll
-c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.Before\bin\Debug\StrategyPattern.Before.pdb
-c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.Before\bin\Debug\nunit.framework.dll
-c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.Before\bin\Debug\nunit.framework.xml
-c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.Before\obj\Debug\StrategyPattern.Before.dll
-c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.Before\obj\Debug\StrategyPattern.Before.pdb
-D:\DevPractice\StrategyPatternExample\StrategyPattern.Before\bin\Debug\StrategyPattern.Before.dll
-D:\DevPractice\StrategyPatternExample\StrategyPattern.Before\bin\Debug\StrategyPattern.Before.pdb
-D:\DevPractice\StrategyPatternExample\StrategyPattern.Before\bin\Debug\nunit.framework.dll
-D:\DevPractice\StrategyPatternExample\StrategyPattern.Before\bin\Debug\nunit.framework.xml
-D:\DevPractice\StrategyPatternExample\StrategyPattern.Before\obj\Debug\StrategyPattern.After.csprojResolveAssemblyReference.cache
-D:\DevPractice\StrategyPatternExample\StrategyPattern.Before\obj\Debug\StrategyPattern.Before.dll
-D:\DevPractice\StrategyPatternExample\StrategyPattern.Before\obj\Debug\StrategyPattern.Before.pdb
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\bin\Debug\StrategyPattern.After.dll
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\bin\Debug\StrategyPattern.After.pdb
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\bin\Debug\nunit.framework.dll
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\bin\Debug\nunit.framework.xml
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\obj\Debug\StrategyPattern.After.dll
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\obj\Debug\StrategyPattern.After.pdb
+c:\users\steven\documents\visual studio 2012\Projects\StrategyPatternExample\StrategyPattern.After\obj\Debug\StrategyPattern.After.csprojResolveAssemblyReference.cache
